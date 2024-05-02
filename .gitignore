@@ -1,3 +1,8 @@
+credentials.py
+
+
+notebooks/test_dev.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
